@@ -1,10 +1,10 @@
 #  Twitter Sentiment Analysis: DistilBERT Fine-Tuning
 
-### **Project Status: Complete | Accuracy: 96.50%**
+### **| Accuracy: 96.50%**
 
 ---
 
-##  Project Overview & Business Impact
+##  Project Overview 
 
 This project demonstrates an **end-to-end  pipeline** for real-time social media sentiment classification. By leveraging a lightweight, state-of-the-art **Transformer model (DistilBERT)**, the solution achieves production-level accuracy on a large-scale, multi-class classification task (Positive, Negative, Neutral).
 
