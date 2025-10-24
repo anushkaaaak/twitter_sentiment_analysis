@@ -88,8 +88,10 @@ This section presents the initial data exploration of the raw tweet text. While 
   
 ---
 
-👩‍💻 Author
-**Anushka Kandwal**
-**Final Year BTech(CSE) student **
-**LinkedIn Profile (https://www.linkedin.com/in/anushka-kandwal-a9b391257)**
+## 👩‍💻 Author  
+
+**Anushka Kandwal**  
+*Final Year BTech(CSE) student *  
+📎 [LinkedIn Profile](https://www.linkedin.com/in/anushka-kandwal-a9b391257)  
+
 ---
