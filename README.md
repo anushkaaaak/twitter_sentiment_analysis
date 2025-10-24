@@ -85,8 +85,11 @@ This section presents the initial data exploration of the raw tweet text. While 
 * Implement the model using **PyTorch Lightning** for better code organization and experimentation.
 * Containerize the trained model using **Docker** and deploy it as a REST API endpoint using **FastAPI** for low-latency inference.
 * Integrate **MLflow** for robust experiment tracking and model versioning.
+  
+---
 
 👩‍💻 Author
 Anushka Kandwal
-*Final Year BTech(CSE) student *
+Final Year BTech(CSE) student 
 📎 LinkedIn Profile (https://www.linkedin.com/in/anushka-kandwal-a9b391257)
+---
