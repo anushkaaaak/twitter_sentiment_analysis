@@ -44,8 +44,17 @@ This section presents the initial data exploration of the raw tweet text. While 
 
 ### **Word Cloud Analysis**
 
-**Word Cloud for Negative Tweets**
-![Word Cloud for Negative Tweets](assets/wordcloud_negative.png)
+### **Word Cloud for Negative Tweets**
+
+<img width="944" height="512" alt="image" src="https://github.com/user-attachments/assets/0e2e4a38-5870-4353-beed-2d838d56eba9" />
+
+### **Word Cloud for Positive Tweets**
+
+<img width="944" height="512" alt="image" src="https://github.com/user-attachments/assets/17af81ab-3655-4d4c-a6c9-55525d8ad5b6" />
+
+### **Word Cloud for Neutral Tweets**
+
+<img width="944" height="512" alt="image" src="https://github.com/user-attachments/assets/c7b60c41-b2fa-4f96-971a-490a938a3955" />
 
 *The presence of terms like 'game', 'server', 'fix', and entity names clearly indicates negative sentiment is often driven by **product/service issues**.*
 
