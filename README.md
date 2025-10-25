@@ -1,6 +1,6 @@
 #  Twitter Sentiment Analysis: DistilBERT Fine-Tuning
 
-### **| Accuracy: 96.50%**
+### **| Accuracy: 93.0%**
 
 ---
 
