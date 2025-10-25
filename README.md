@@ -14,7 +14,7 @@ This project demonstrates an **end-to-end  pipeline** for real-time social media
 | :--- | :--- | :--- | 
 | **Model** | **DistilBERT** (Transformer) | Utilized SOTA (State-of-the-Art) architecture for superior contextual understanding compared to traditional models. | 
 | **Data Scale** | **~120,000 Tweets** | Successfully handled and processed a large dataset, demonstrating efficiency in data preparation. | 
-| **Accuracy** | **96.50%** | Achieved high-fidelity classification, minimizing false positives/negatives in social listening. | 
+| **Accuracy** | **93.0%** | Achieved high-fidelity classification, minimizing false positives/negatives in social listening. | 
 | **Deployment Readiness** | **HuggingFace `Trainer` API** | Pipeline built for easy serialization (`.save_pretrained()`) 
 
 ---
